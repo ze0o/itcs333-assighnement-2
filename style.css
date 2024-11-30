@@ -1,0 +1,16 @@
+body h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding: 20px;
+}
+
+thead th {
+    color: rgb(184, 184, 184);
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding: 20px;
+}
